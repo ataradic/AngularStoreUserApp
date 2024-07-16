@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8EMrWkLJloOrJ5WZR55t5DkbGMbo2yC9Prme++FMRpMNmNDGbiKtb9cjYZf4pa8osxBrv8ygt+i+Uebx0tolQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Atara Dickman\\source\\repos\\AngularStoreUserApp\\AngularStore\\AngularStore\\AngularStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atara Dickman\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\Atara Dickman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Atara Dickman\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Atara Dickman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Atara Dickman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Atara Dickman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Atara Dickman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
